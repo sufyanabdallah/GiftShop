@@ -1,5 +1,10 @@
 body {
-    background: white;
+    color: #7074f7;
+    margin: 0;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: left;
+    background-color: #fff;
   }
   p {
     color: black;
@@ -11,3 +16,30 @@ body {
   section{
     position: relative;
   }
+
+  .menuItems{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    height: auto;
+  }
+  
+ a{
+    color: #12265a;
+    font-weight: 900;
+    text-decoration: none;
+ }
+
+ .menuItems a{
+  padding: 0 10px;
+  margin:0 12px;
+  color: #12265a;
+  font-weight: 900;
+ }
+
+ .menu-logo .navbar-brand{
+  display: flex;
+  padding-bottom: 5px;
+  padding-top: 5px;
+ }
