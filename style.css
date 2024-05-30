@@ -73,3 +73,21 @@ a{
   padding-top: 5px;
   padding-bottom: 5px;
 }
+
+/* aboutus */
+#aboutUs{
+  padding-top: 45px;
+  padding-bottom: 75px;
+}
+
+#aboutUs img{
+  height: 350px;
+  border-radius: 30px;
+
+}
+
+#aboutUs .content{
+margin: auto;
+}
+
+
