@@ -202,3 +202,25 @@ margin: auto;
   margin-top: 15px;
   margin-bottom: 15px;
 }
+
+#productsType h4{
+  margin-bottom: 0;
+  text-align: left;
+  color: #12265a;
+}
+
+#productsType{
+  margin: 0;
+  text-align: left;
+  font-style: normal;
+}
+
+.display-3{
+  font-size: 30px;
+  font-weight: 900;
+}
+
+
+#productsType .box-icon{
+  border-radius: 50%;
+}
