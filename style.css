@@ -224,3 +224,37 @@ margin: auto;
 #productsType .box-icon{
   border-radius: 50%;
 }
+
+/* featuredProducts */
+#featuredProducts{
+  background-color: #ffffff;
+  margin-bottom: 30px;
+  margin-top: 30px;
+  text-align: center;
+}
+
+.itemImage img{
+  border-radius: 30px;
+  width: 320px;
+  height: 320px;
+}
+
+.item{
+  padding: 10px;
+  border: 2px dashed black ;
+}
+
+.item .itemText{
+  margin-bottom: 8px;
+  padding-top: 15px;
+  font-size: 25px;
+}
+
+.itemText .item-title{
+  color: #12265a ;
+}
+
+.itemText .item-price{
+  margin-bottom: 8px;
+  color: #45b3df;
+}
