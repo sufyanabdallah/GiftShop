@@ -258,3 +258,7 @@ margin: auto;
   margin-bottom: 8px;
   color: #45b3df;
 }
+
+#footer .social-media img{
+width: 40px;  
+}
